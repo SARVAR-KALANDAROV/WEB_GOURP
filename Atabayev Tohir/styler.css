@@ -1,0 +1,17 @@
+#g{
+    border: 8px solid orange;
+    padding: 90px;
+    padding-right: 30px; background-color:red ;
+}
+#i{
+    border: 8px solid limegreen;
+    border-radius: 120px;
+    padding: 20px;
+    background-color: darkblue;
+}
+#if{
+    border: 8px solid limegreen;
+    margin: 30px;
+    padding: 15px;
+    background-color: darkblue;
+}

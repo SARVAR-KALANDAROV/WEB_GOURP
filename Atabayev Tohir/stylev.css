@@ -1,0 +1,22 @@
+#v{
+    border: 8px solid red;
+    border-radius: 120px;
+    background-color: orange;
+}
+#a{
+    border: 7px solid limegreen;
+    border: 7px solid limegreen;
+    padding-top: 30px;
+    padding-bottom: 45px;
+    margin: 40px;
+    background-color: darkblue;
+    
+    
+}
+#s{
+   border: 8px solid limegreen;
+   padding-top: 30px;
+   padding-bottom: 45px;
+   margin: 40px;
+   background-color: darkblue;   
+}
