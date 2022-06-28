@@ -1,0 +1,24 @@
+.markaz{
+    margin: 10px;
+    border: 1px solid;
+    color: red;
+}
+.sinf2{
+    border: 1px solid;
+    margin: 10px;
+    padding: 40px;
+    color: rgb(247, 234, 248);
+    font-size: 40px;
+}
+body{
+    background-color: rgb(243, 255, 253);
+}
+h1{
+    color: brown;
+}
+p{
+    color: rgb(98, 14, 62);
+}
+ol{
+    color: rgb(104, 22, 4);
+}
