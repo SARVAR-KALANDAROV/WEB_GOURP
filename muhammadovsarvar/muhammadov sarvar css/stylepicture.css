@@ -1,0 +1,17 @@
+.pic {
+    border: 5px solid yellow;
+    border-radius: 20px;
+    background-color: aqua;
+    padding-left: 300px;
+    padding-right: 300px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.pic2 {
+    border: 5px solid yellow;
+    border-radius: 20px;
+    background-color: aqua;
+    margin-left: 300px;
+    margin-right: 300px;
+}
