@@ -1,0 +1,27 @@
+#connect{
+border: 10px solid rgb(0, 196, 98);
+border-radius: 20px;
+padding: 20px;
+margin: 2px;
+text-align: center;
+color: rgb(8, 129, 129);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    border-radius: 5px;
+    background-color: chartreuse;
+    border: 1px solid blue;
+    width: 200px;
+}
+button{
+    border: 2px solid rgb(47, 0, 255);
+    border-radius: 2px;
+    background-color: rgb(247, 0, 255);  }
+    #id1{
+        text-align: center;
+        color: brown;
+    } 
+    #q{
+        text-align: center;
+        color: rgb(250, 162, 0);
+    }

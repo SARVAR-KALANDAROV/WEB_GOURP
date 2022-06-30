@@ -1,0 +1,27 @@
+table{
+    border: 2px solid red;
+}
+tr{
+    border: 2px solid red;
+}
+.jadval{
+    margin: 10px ;
+    border: 2px solid rgb(74, 16, 233);
+    border-radius: 30px;
+    margin: 30px;
+    padding: 15px;
+}
+td{
+    vertical-align: center;
+}
+tr{
+    height: 40px;
+}
+.royhat{
+    background-color: rgb(179, 167, 246);
+    border: 5px solid rgb(27, 164, 183);
+    border-radius: 50px;
+    margin: 20px;
+    padding: 30px;
+    color: red;
+}
