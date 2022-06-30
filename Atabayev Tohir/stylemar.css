@@ -83,12 +83,12 @@ button.login {
     font-size: 112px;
     line-height: 168px;
     /* identical to box height, or 150% */
-    color: yellow;
+    color: rgb(4, 168, 53);
     text-align: center;
 }
 
 .second h1.two:hover {
-    color: #ffbf84;
+    color: #ec3bd5;
     background-color: linear-gradient(90deg, #fe6783 1.9%, #ffbf84 97.1%);
 }
 
@@ -112,7 +112,7 @@ button.login {
 }
 
 body {
-    background: black;
+    background: rgb(94, 1, 1);
 }
 
 header {
@@ -191,12 +191,12 @@ button.login {
     font-size: 112px;
     line-height: 168px;
     /* identical to box height, or 150% */
-    color: yellow;
+    color: rgb(21, 255, 0);
     text-align: center;
 }
 
 .second h1.two:hover {
-    color: #ffbf84;
+    color: #ff84e0;
     background-color: linear-gradient(90deg, #fe6783 1.9%, #ffbf84 97.1%);
 }
 
