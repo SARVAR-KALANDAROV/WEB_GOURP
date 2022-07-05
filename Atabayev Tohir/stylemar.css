@@ -30,12 +30,12 @@ header {
 .center ul {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    list-style: none;
+    align-items: center;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    list-style: none ;
 }
 
 .center ul li a {
-    text-decoration: none;
+    text-decoration: none;          
     font-weight: 500;
     font-size: 20px;
     line-height: 30px;
@@ -112,7 +112,7 @@ button.login {
 }
 
 body {
-    background: rgb(94, 1, 1);
+    background: rgb(0, 0, 0);
 }
 
 header {
@@ -183,7 +183,7 @@ button.login {
     font-size: 112px;
     line-height: 168px;
     /* identical to box height, or 150% */
-    color: #ffffff;
+    color: #3007e7;
     text-align: center;
 }
 
@@ -213,5 +213,5 @@ button.login {
     line-height: 60px;
     /* or 150% */
     text-align: center;
-    color: #ffffff;
-}
+    color: #008cff;
+}  
