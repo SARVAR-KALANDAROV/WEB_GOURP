@@ -19,7 +19,7 @@ header {
 }
 
 .active {
-    color: #3c82f4 !important;
+    color:red  !important;
 }
 
 .container {
@@ -44,7 +44,8 @@ header {
 }
 
 .center ul li a:hover {
-    color: #3c82f4 !important;
+    color: red !important;
+    font-size: 30px;
 }
 
 .right button.sign {
@@ -68,6 +69,10 @@ button.login {
     margin-right: 24px;
     /* identical to box height, or 150% */
     color: #707070;
+}
+
+.login:hover {
+    font-size: 40px;
 }
 
 .second h1.one {
@@ -106,4 +111,15 @@ button.login {
     /* or 150% */
     text-align: center;
     color: #ffffff;
+}
+.photo {
+    margin-top: 499px;
+}
+.text {
+    margin-left: 630px;
+    margin-top: -600px;
+    color: #fff;
+}
+.text h2.text1:hover {
+    color: #707070;
 }
