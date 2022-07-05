@@ -123,3 +123,8 @@ button.login {
 .text h2.text1:hover {
     color: #707070;
 }
+.end {
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+}
