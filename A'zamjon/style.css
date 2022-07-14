@@ -50,10 +50,10 @@ header {
 
 .right button.sign {
     background-color: #306ef7;
-    font-weight: 500;
+    font-weight: 500px;
     font-size: 20px;
     line-height: 30px;
-    /* identical to box height, or 150% */
+    /* identical to box height, or 150% */ 
     color: #fff;
     border: 0;
     border-radius: 10px;
@@ -67,12 +67,18 @@ button.login {
     line-height: 30px;
     border: 0;
     margin-right: 24px;
+    list-style: none;
     /* identical to box height, or 150% */
     color: #707070;
 }
 
+.BU{
+    text-decoration: none;
+}
+
 .login:hover {
     font-size: 40px;
+    color: #fff;
 }
 
 .second h1.one {
@@ -123,8 +129,56 @@ button.login {
 .text h2.text1:hover {
     color: #707070;
 }
+.foto {
+    margin-top: 50px;
+    margin-left: 480px;
+}
+.fototext {
+    text-align: center;
+    margin-right: 800px;
+    margin-top: -545px;
+    color: #fff;
+}
 .end {
     text-align: center;
     margin-top: 50px;
+    color: #fff;
+}
+#in{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 800px;
+}
+#si{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 800px;
+}
+.but button{
+    margin-top: 80px;
+    margin-left: 1050px;
+    font-size: 40px;
+    background-color: #306ef7;
+    color: #fff;
+    border-radius: 15px;
+}
+.but button a{
+    text-decoration: none;
+}
+#lo{
+    color: #fff;
+    margin-top: 100px;
+    margin-left: 560px;
+    font-size: 50px;
+}
+.kh button{
+    background-color: blue;
+    font-size: 40px;
+    border-radius: 15px;
+    margin-top: 70px;
+    margin-left: 1060px;
+}
+.kh button a{
+    text-decoration: none;
     color: #fff;
 }
