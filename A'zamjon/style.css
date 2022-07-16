@@ -233,3 +233,44 @@ button.login {
     text-decoration: none;
     font-size: 20px;
 }
+.foy{
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+}
+.box {
+    color: #fff;
+    text-align: center;
+    margin-top: 70px;
+}
+.box2 input {
+    margin-top: 70px;
+    margin-left: 1500px;
+    font-size: 20px;
+}
+.box3 button{
+    background-color: #306ef7;
+    margin-top: 30px;
+    margin-left: 1660px;
+}
+.box3 button a { 
+    text-decoration: none;
+    font-size: 20px;
+}
+.yub{
+    color: #fff;
+    margin-top: 70px;
+    text-align: center;
+    font-size: 25px;
+}
+.ju button{
+    background-color:#306ef7 ;
+    margin-top: 90px;
+    margin-left: 1100px;
+    font-size: 30px;
+    border-radius: 30px
+}
+.ju button a {
+    text-decoration: none;
+}
